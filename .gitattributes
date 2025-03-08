@@ -1,1 +1,2 @@
 gmod/** filter=lfs diff=lfs merge=lfs -text
+gmod/maps/rp_nycity_day.bsp filter=lfs diff=lfs merge=lfs -text
